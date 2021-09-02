@@ -1,0 +1,7 @@
+{
+  "helloWorld": "Olá, mundo!",
+  "accessTokenTypeIsEmptyOrNull": "O tipo da chave de acesso é inválido ou nulo",
+  "accessTokenExpirationIsZeroOrNegative": "O tempo de expiração da chave de acesso é zero ou negativo",
+  "accessTokenIsEmptyOrNull": "A token de acesso é vazia ou nula",
+  "refreshTokenIsEmptyOrNull": "A token de renovação é vazia ou nula"
+}
