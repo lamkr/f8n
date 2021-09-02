@@ -1,4 +1,4 @@
-library cleanarch.job;
+library f8n.job;
 
 export 'src/job/Job.dart';
 

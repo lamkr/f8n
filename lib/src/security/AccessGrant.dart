@@ -1,5 +1,5 @@
-import 'package:cleanarch/locales.dart';
-import 'package:cleanarch/validations.dart';
+import 'package:f8n/locales.dart';
+import 'package:f8n/validations.dart';
 
 class AccessGrant
     implements IValidatable

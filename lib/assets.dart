@@ -1,4 +1,4 @@
-library cleanarch.assets;
+library f8n.assets;
 
 export 'src/assets/IAssets.dart';
 export 'src/assets/IMessages.dart';

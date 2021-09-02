@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:cleanarch/src/job/Job.dart';
+import 'package:f8n/src/job/Job.dart';
 import 'package:test/test.dart';
 
 Future main() async

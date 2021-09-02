@@ -1,4 +1,4 @@
-import 'package:cleanarch/src/validations/ValidationResult.dart';
+import 'package:f8n/src/validations/ValidationResult.dart';
 import 'package:test/test.dart';
 
 void main() {

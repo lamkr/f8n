@@ -1,10 +1,10 @@
-import 'package:cleanarch/assets.dart';
-import 'package:cleanarch/injection.dart';
-import 'package:cleanarch/locales.dart';
-import 'package:cleanarch/configuration.dart';
-import 'package:cleanarch/location.dart';
-import 'package:cleanarch/log.dart';
-import 'package:cleanarch/security.dart';
+import 'package:f8n/assets.dart';
+import 'package:f8n/injection.dart';
+import 'package:f8n/locales.dart';
+import 'package:f8n/configuration.dart';
+import 'package:f8n/location.dart';
+import 'package:f8n/log.dart';
+import 'package:f8n/security.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 
 abstract class IApplicationContext

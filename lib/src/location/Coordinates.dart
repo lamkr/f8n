@@ -1,4 +1,4 @@
-import 'package:cleanarch/cleanarch.dart';
+import 'package:f8n/f8n.dart';
 
 class Coordinates implements INullSafetyObject
 {

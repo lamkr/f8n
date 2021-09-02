@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:cleanarch/assets.dart';
+import 'package:f8n/assets.dart';
 
 class AssetsDart implements IAssets
 {

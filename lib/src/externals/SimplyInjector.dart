@@ -1,4 +1,4 @@
-import 'package:cleanarch/injection.dart';
+import 'package:f8n/injection.dart';
 import 'package:simply_injector/simply_injector.dart' as si;
 
 class SimplyInjector

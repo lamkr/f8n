@@ -1,4 +1,4 @@
-import 'package:cleanarch/cleanarch.dart';
+import 'package:f8n/f8n.dart';
 import 'package:test/test.dart';
 
 Future<void> main() async

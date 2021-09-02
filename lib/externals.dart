@@ -1,4 +1,4 @@
-library cleanarch.externals;
+library f8n.externals;
 
 export 'src/externals/AssetsDart.dart';
 export 'src/externals/AssetsFlutter.dart';

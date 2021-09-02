@@ -1,5 +1,5 @@
-import 'package:cleanarch/assets.dart';
-import 'package:cleanarch/src/configuration/IConfiguration.dart';
+import 'package:f8n/assets.dart';
+import 'package:f8n/src/configuration/IConfiguration.dart';
 
 /// This class load a configuration from the asset file
 /// `assets/appsettings.json`.

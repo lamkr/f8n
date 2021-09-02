@@ -1,5 +1,5 @@
-import 'package:cleanarch/locales.dart';
-import 'package:cleanarch/assets.dart';
+import 'package:f8n/locales.dart';
+import 'package:f8n/assets.dart';
 
 class IntlFromAssets implements IIntl
 {

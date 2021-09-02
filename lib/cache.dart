@@ -1,4 +1,4 @@
-library cleanarch.cache;
+library f8n.cache;
 
 export 'src/cache/ICache.dart';
 

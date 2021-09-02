@@ -1,3 +1,3 @@
-library cleanarch.security;
+library f8n.security;
 
 export 'src/security/IAppPermissions.dart';

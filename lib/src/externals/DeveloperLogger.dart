@@ -1,4 +1,4 @@
-import 'package:cleanarch/log.dart';
+import 'package:f8n/log.dart';
 import 'package:flutter/foundation.dart';
 
 class DeveloperLogger implements ILogger

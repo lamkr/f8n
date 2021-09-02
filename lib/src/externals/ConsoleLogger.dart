@@ -1,4 +1,4 @@
-import 'package:cleanarch/log.dart';
+import 'package:f8n/log.dart';
 
 class ConsoleLogger implements ILogger
 {

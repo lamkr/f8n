@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/services.dart';
 
-import 'package:cleanarch/assets.dart';
+import 'package:f8n/assets.dart';
 
 class AssetsFlutter implements IAssets
 {

@@ -1,4 +1,4 @@
-library cleanrch.locales;
+library f8n.locales;
 
 export 'src/injection/IInjector.dart';
 export 'src/injection/Lifestyle.dart';

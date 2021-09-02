@@ -1,4 +1,4 @@
-import 'package:cleanarch/validations.dart';
+import 'package:f8n/validations.dart';
 
 abstract class IValidatable
 {
