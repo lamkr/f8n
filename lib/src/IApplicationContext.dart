@@ -5,7 +5,8 @@ import 'package:f8n/configuration.dart';
 import 'package:f8n/location.dart';
 import 'package:f8n/log.dart';
 import 'package:f8n/security.dart';
-import 'package:package_info_plus/package_info_plus.dart';
+
+import '../f8n.dart';
 
 abstract class IApplicationContext
 {
@@ -17,7 +18,7 @@ abstract class IApplicationContext
 
   IConfiguration get configuration;
 
-  PackageInfo get appInfo;
+  AppInfo get appInfo;
 
   IAppPermissions get permissions;
 

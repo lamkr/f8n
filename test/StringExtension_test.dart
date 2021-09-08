@@ -1,5 +1,5 @@
-import 'package:f8n/f8n.dart';
 import 'package:test/test.dart';
+import 'package:f8n/extensions.dart';
 
 Future<void> main() async
 {
