@@ -25,7 +25,7 @@ flutter:
     - assets/locale/
 #--------------------------------------------------------------------------------------------------------
 #
-# Testes unit�rios:
+# Testes unitários:
 # (--no-sound-null-safety evita o erro "Cannot run with sound null safety as one or more dependencies do not support null safety"):
 #
 #   flutter test --enable-experiment=non-nullable --no-sound-null-safety [path]
@@ -36,13 +36,13 @@ flutter:
 #
 #--------------------------------------------------------------------------------------------------------
 #
-# Testes de integra��o:
+# Testes de integração:
 #
 # flutter run --enable-experiment=non-nullable [path]
 #
 #--------------------------------------------------------------------------------------------------------
 #
-# Analisar c�digo:
+# Analisar código:
 #
 # dartanalyzer -v --enable-experiment=non-nullable [path]
 #
