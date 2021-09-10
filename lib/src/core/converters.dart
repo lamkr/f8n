@@ -8,9 +8,4 @@ DateTime jsonToDateTime(json) {
   return json.toString().toDateTime();
 }
 
-double jsonToDouble(json) {
-  if( json == null ) {
-    return 0.0;
-  }
-  return json.toString().toDouble();
-}
+
