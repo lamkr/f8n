@@ -1,5 +1,5 @@
+import 'package:f8n/foundation.dart';
 import 'package:f8n/log.dart';
-import 'package:flutter/foundation.dart';
 
 class DeveloperLogger implements ILogger
 {

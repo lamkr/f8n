@@ -5,7 +5,7 @@ A library for Dart developers.
 A simple usage example:
 
 ```dart
-import 'package:f8n/f8n.dart';
+import 'package:f8n/foundation.dart';
 
 main() {
   var awesome = new Awesome();

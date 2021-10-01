@@ -1,4 +1,4 @@
-import 'package:f8n/f8n.dart';
+import 'package:f8n/foundation.dart';
 
 class Coordinates implements INullSafetyObject
 {
