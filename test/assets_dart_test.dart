@@ -1,5 +1,4 @@
-/*import 'package:f8n/services.dart';
-import 'package:f8n/externals.dart';
+import 'package:f8n/assets_dart.dart';
 import 'package:test/test.dart';
 
 void main() {
@@ -24,4 +23,3 @@ void main() {
   });
 
 }
-*/

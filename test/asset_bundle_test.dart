@@ -1,3 +1,5 @@
+// TODO DESNECESSARIO JA QUE AGORA É POSSIVEL CARREGAR RECURSOS DE QQR PLATAFORMA NO FLUTTER
+
 import 'dart:convert';
 import 'package:f8n/services.dart';
 import 'package:test/test.dart';

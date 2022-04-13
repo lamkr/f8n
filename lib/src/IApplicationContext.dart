@@ -1,4 +1,3 @@
-import 'package:f8n/services.dart';
 import 'package:f8n/injection.dart';
 import 'package:f8n/locales.dart';
 import 'package:f8n/configuration.dart';
@@ -6,6 +5,7 @@ import 'package:f8n/location.dart';
 import 'package:f8n/log.dart';
 import 'package:f8n/security.dart';
 
+import '../assets.dart';
 import '../foundation.dart';
 
 abstract class IApplicationContext

@@ -1,7 +1,8 @@
-/*import 'dart:convert';
+import 'dart:convert';
 import 'dart:io';
 
-import 'package:f8n/services.dart';
+import 'package:f8n/assets.dart';
+import 'package:flutter/services.dart';
 
 class AssetsFlutter implements IAssets
 {
@@ -48,4 +49,4 @@ class AssetsFlutter implements IAssets
     var content = await File.fromUri(uri).readAsString();
     return content;
   }
-}*/
+}

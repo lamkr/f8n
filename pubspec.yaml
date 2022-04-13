@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ^0.13.3
+  http: ^0.13.4
   intl: ^0.17.0
   simply_injector: ^1.1.1
   meta: ^1.7.0
