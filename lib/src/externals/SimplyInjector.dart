@@ -23,4 +23,15 @@ class SimplyInjector
   void dispose() {
     _injector.dispose();
   }
+
+  @override
+  bool contains<T>() {
+    try {
+      _injector.get<T>();
+      return true;
+    }
+    catch (e) {
+      return false;
+    }
+  }
 }

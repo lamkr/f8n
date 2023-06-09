@@ -1,5 +1,8 @@
 import 'package:f8n/foundation.dart';
 
+const invalidLatitude = 99.9;
+const invalidLongitude = 99.9;
+
 class Location implements INullSafetyObject
 {
   static Location invalid = _InvalidLocation();
@@ -60,7 +63,7 @@ class Location implements INullSafetyObject
 
 class _InvalidLocation extends Location {
   _InvalidLocation()
-    : super(0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, DateTime(0));
+    : super(invalidLatitude, invalidLongitude, 0.0, 0.0, 0.0, 0.0, 0.0, DateTime(0));
 
   @override
   bool get isNotEmpty => false;

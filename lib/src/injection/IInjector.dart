@@ -9,5 +9,7 @@ abstract class IInjector
 
   T get<T>();
 
+  bool contains<T>();
+
   void dispose();
 }

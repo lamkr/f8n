@@ -17,6 +17,11 @@ class DeveloperLogger implements ILogger
   }
 
   @override
+  void debug(String text, {Map<String,dynamic> args=const <String,dynamic>{}}) {
+    debugPrint('[DEBUG] $_now: $text');
+  }
+
+  @override
   void warn(String text, {Map<String,dynamic> args=const <String,dynamic>{},
     Object? error, StackTrace? stackTrace}) {
     debugPrint('[WARN] $_now: $text');
@@ -24,5 +29,10 @@ class DeveloperLogger implements ILogger
 
   @override
   void dispose() {
+  }
+
+  @override
+  void clear() {
+    // Faz nada.
   }
 }
