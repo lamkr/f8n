@@ -1,3 +1,3 @@
 library f8n.security;
 
-export 'src/security/IAppPermissions.dart';
+export 'src/security/app_permissions.dart';
